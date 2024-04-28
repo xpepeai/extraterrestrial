@@ -1,6 +1,5 @@
 import dexguru from '../assets/images/dexguru.png';
 import dextlogo from '../assets/images/dextlogo.png';
-import ethereum from '../assets/images/ethereum.png';
 import vulkania from '../assets/images/vulkania.png';
 import arbitrum from '../assets/svgs/arbitrum.svg';
 import celer from '../assets/svgs/celer.svg';
@@ -45,7 +44,6 @@ export const brands = {
 	arbitrum,
 	dexguru,
 	dextlogo,
-	ethereum,
 	vulkania,
 	cmc,
 	Adobe,

@@ -118,7 +118,7 @@ const BUIDLPlan = () => {
 				<h2 className='section-title'>ROADMAP</h2>
 			</motion.div>
 			<p className={'buidl-plan'}>
-			<strong>Build the Future with BDAG coins</strong>.
+			<strong>Build the Future with ET</strong>.
 			</p>
 			<div className='roadmap container'>
 				{quarters.map((quarter, i) => (
